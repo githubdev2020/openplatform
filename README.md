@@ -1,2 +1,2 @@
-- BitForex CApp Authorized Login API[https://github.com/githubdev2020/openplatform/wiki/BitForex-CApp-Authorized-Login-API]
-- BitForex Transfer API[https://github.com/githubdev2020/openplatform/wiki/BitForex-Transfer-API]
+- [BitForex CApp Authorized Login API](https://github.com/githubdev2020/openplatform/wiki/BitForex-CApp-Authorized-Login-API)
+- [BitForex Transfer API](https://github.com/githubdev2020/openplatform/wiki/BitForex-Transfer-API)
